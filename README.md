@@ -1,9 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+DMM WEBCAMP ２ヶ月目課題　ながのケーキアプリケーションです。
 
-Things you may want to cover:
+## 概要
 
 * Ruby version
 
